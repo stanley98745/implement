@@ -1,5 +1,7 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
+![shading_example](https://github.com/stanley98745/implement/blob/master/ImageRecognition/Shading/19271_en_1.jpg)
+
 這個應用主要是在執行圖片的Shading算法。  
 可以判斷影像的光源是否分布不均的現象。
 
